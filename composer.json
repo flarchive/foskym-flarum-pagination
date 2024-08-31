@@ -1,0 +1,55 @@
+{
+    "name": "foskym/flarum-pagination",
+    "description": "A flarum pagination extension.",
+    "keywords": [
+        "flarum",
+        "extension",
+        "pagination"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "FoskyM",
+            "homepage": "https://fosky.top",
+            "email": "i@fosky.top",
+            "role": "maintainer"
+        },
+        {
+            "name": "Nodeloc",
+            "homepage": "https://github.com/nodeloc"
+        },
+        {
+            "name": "lrysia",
+            "homepage": "https://github.com/lrysia",
+            "role": "developer"
+        },
+        {
+            "name": "BlockCat",
+            "homepage": "https://github.com/block-cat",
+            "role": "original author"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/FoskyM/flarum-pagination/issues",
+        "source": "https://github.com/FoskyM/flarum-pagination"
+    },
+    "require": {
+        "flarum/core": "^1.2"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Pagination",
+            "icon": {
+                "name": "fas fa-book",
+                "backgroundColor": "#146EBE",
+                "color": "#fff"
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "FoskyM\\Pagination\\": "src/"
+        }
+    }
+}
