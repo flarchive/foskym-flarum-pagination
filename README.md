@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of foskym/flarum-pagination.** Not for installation: use [Packagist](https://packagist.org/packages/foskym/flarum-pagination) or the [upstream repository](https://github.com/FoskyM/flarum-pagination).
 
-**0** versions archived · Latest: [`v0.3.0`](https://github.com/flarchive/foskym-flarum-pagination/tree/archive/v0.3.0) · License: `MIT` · Flarum: `^1.2`
+**5** versions archived · Latest: [`v0.3.0`](https://github.com/flarchive/foskym-flarum-pagination/tree/archive/v0.3.0) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2024-08-31 | `^1.2` | [Browse](https://github.com/flarchive/foskym-flarum-pagination/tree/archive/v0.1.0) |
+| `v0.1.1` | 2024-08-31 | `^1.2` | [Browse](https://github.com/flarchive/foskym-flarum-pagination/tree/archive/v0.1.1) |
+| `v0.2.0` | 2024-08-31 | `^1.2` | [Browse](https://github.com/flarchive/foskym-flarum-pagination/tree/archive/v0.2.0) |
+| `v0.2.1` | 2024-08-31 | `^1.2` | [Browse](https://github.com/flarchive/foskym-flarum-pagination/tree/archive/v0.2.1) |
+| `v0.3.0` | 2025-04-03 | `^1.2` | [Browse](https://github.com/flarchive/foskym-flarum-pagination/tree/archive/v0.3.0) |
 
 Catalog entry: [packages/foskym-flarum-pagination.json](https://github.com/flarchive/archive-index/blob/main/packages/foskym-flarum-pagination.json)
 
